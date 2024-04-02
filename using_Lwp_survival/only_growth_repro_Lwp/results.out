@@ -1,0 +1,60 @@
+=================================================================================
+Results of the parameter estimation with BYOM version 6.0
+=================================================================================
+   Filename      : byom_debkiss_no_egg 
+   Analysis date : 15-Apr-2022 (11:45) 
+   Data entered  :
+     data state 1: 11x1, continuous data, power 0.50 transf.
+     data state 2: 8x1, continuous data, power 0.50 transf.
+   Search method: Nelder-Mead simplex direct search, 2 rounds. 
+     The optimisation routine has converged to a solution
+     Total 295 simplex iterations used to optimise. 
+     Minus log-likelihood has reached the value 51.92 (AIC=111.83). 
+=================================================================================
+sJAm       0.1545 (fit: 1, initial: 0.15) 
+sJM       0.01028 (fit: 1, initial: 0.01) 
+WB0          0.15 (fit: 0, initial: 0.15) 
+Lwp         23.07 (fit: 1, initial: 22) 
+yAV           0.8 (fit: 0, initial: 0.8) 
+yBA          0.95 (fit: 0, initial: 0.95) 
+yVA           0.8 (fit: 0, initial: 0.8) 
+kap        0.7859 (fit: 1, initial: 0.79) 
+f               1 (fit: 0, initial:  1) 
+fB            0.5 (fit: 0, initial: 0.5) 
+Lwf             0 (fit: 0, initial:  0) 
+=================================================================================
+Time required: 6.8 secs
+  
+95% confidence interval(s) from the profile(s)
+=================================================================================
+sJAm       interval:     0.1438 -  0.1679 
+sJM        interval:   0.009407 -  0.01136 
+=================================================================================
+ 
+Time required: 2 mins, 36.4 secs
+=================================================================================
+Results of the parameter estimation with BYOM version 6.0
+=================================================================================
+   Filename      : byom_debkiss_no_egg 
+   Analysis date : 21-Apr-2022 (14:11) 
+   Data entered  :
+     data state 1: 11x1, continuous data, power 0.50 transf.
+     data state 2: 8x1, continuous data, power 0.50 transf.
+   Search method: Nelder-Mead simplex direct search, 2 rounds. 
+     The optimisation routine has converged to a solution
+     Total 295 simplex iterations used to optimise. 
+     Minus log-likelihood has reached the value 51.92 (AIC=111.83). 
+=================================================================================
+sJAm       0.1545 (fit: 1, initial: 0.15) 
+sJM       0.01028 (fit: 1, initial: 0.01) 
+WB0          0.15 (fit: 0, initial: 0.15) 
+Lwp         23.07 (fit: 1, initial: 22) 
+yAV           0.8 (fit: 0, initial: 0.8) 
+yBA          0.95 (fit: 0, initial: 0.95) 
+yVA           0.8 (fit: 0, initial: 0.8) 
+kap        0.7859 (fit: 1, initial: 0.79) 
+f               1 (fit: 0, initial:  1) 
+fB            0.5 (fit: 0, initial: 0.5) 
+Lwf             0 (fit: 0, initial:  0) 
+=================================================================================
+Time required: 17.2 secs
