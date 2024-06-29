@@ -308,7 +308,7 @@ glo.locR = 2; % location of cumulative reproduction in the state variable list
 % Model parameters are part of a 'structure' for easy reference. 
 % Global parameters as part of the structure glo
   
-glo.delM  = 0.12; % shape corrector (used in call_deri.m)
+glo.delM  = 0.107; % shape corrector (used in call_deri.m)
 glo.dV    = 0.4;   % dry weight density (used in call_deri.m)
 glo.len   = 2;     % switch to fit physical length (0=off, 1=on, 2=on and no shrinking) (used in call_deri.m)
 glo.mat   = 1;     % include maturity maint. (0=off, 1=include)
